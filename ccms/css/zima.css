@@ -1,0 +1,84 @@
+body
+{
+    background: 
+        linear-gradient(
+            rgba(0, 0, 0, 0.7), 
+            rgba(0, 0, 0, 0.7)
+        ),
+        url("../images/1.jpg");
+    background-size: cover;
+}
+#bodyPage
+{
+    color: white;
+}
+.heading
+{
+    text-align: center;
+    padding: 50px;
+}
+#normalOptions
+{
+    padding: 10px;
+    background-color: rgb(194, 191, 31);
+    margin: 10px;
+    border-radius: 20px;
+    font-size: larger;
+    font-weight: 700;
+}
+#normalMenu
+{
+    background-color: rgba(255,255,255,0.3);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px;
+}
+#adminOptions
+{
+    padding: 10px;
+    background-color: rgb(194, 191, 31);
+    margin: 10px;
+    border-radius: 20px;
+    font-size: larger;
+    font-weight: 700;
+}
+#adminMenu
+{
+    background-color: rgba(255,255,255,0.3);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px;
+}
+#button
+{
+    width: 200px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#logSigForm
+{
+    background-color: darkgray;
+    padding: 50px;
+}
+#loginSignUp
+{
+    padding-top: 50px;
+}
+#descBox
+{
+    height: 200px;
+}
+#searchHeading
+{
+    border: 2px;
+    border-color: white;
+}
+#summaryRow
+{
+    padding: 10px;
+}
+#summaryCol
+{
+    padding: 10px;
+    color: white;
+}
